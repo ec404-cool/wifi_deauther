@@ -4,7 +4,7 @@ Use This Code to DeAuth Clients from their Network.
 
 Just type: 
 <code>
-    python3 wifi_deauter
+    python3 wifi_deauter.py
 </code>
 and It should give you and Interactive Console
 
@@ -16,5 +16,5 @@ Happy Intercepting!
 <h1>French</h1>
 Utilisez ce script pour désauthentifier les clients de leur WiFi
 <code>
-    python3 wifi_deauter
+    python3 wifi_deauter.py
 </code>
